@@ -136,3 +136,8 @@ section{
     background-position: center center;
     text-transform: uppercase;
 }
+
+div .hero h1{
+    position: relative -20px;
+    
+}
