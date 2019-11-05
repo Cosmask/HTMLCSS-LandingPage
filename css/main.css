@@ -32,5 +32,11 @@ section{
 .space-between{
     justify-content: space-between;
 }
-
+.btn{
+    cursor: auto;
+    border: 0;
+    padding: 6px 12px;
+    border-radius: 3px;
+    line-height: 1.4;
+}
     
