@@ -141,11 +141,11 @@ div .hero h1{
     position: relative -20px;
 
 }
-div .hero h2{
+.hero h2{
     color:#faa541;
 
 }
-div .hero h1, h2{
+div .hero h1, .hero h2{
     font-size: 63px;
     font-weight: 700;
     line-height: 0.9;
