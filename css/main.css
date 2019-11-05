@@ -286,7 +286,10 @@ footer:after{
     content:"";
     background-color: #a0a0a0;
     position: absolute;
-    margin: 0;
+    top: 0;
+    bottom:0;
+    left:0;
+    right:0;
     widows: 75%;
     z-index: -1;
 }
