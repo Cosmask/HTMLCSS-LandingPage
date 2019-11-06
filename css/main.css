@@ -290,6 +290,6 @@ footer:after{
     bottom:0;
     left:0;
     right:0;
-    widows: 75%;
+    width: 75%;
     z-index: -1;
 }
