@@ -315,13 +315,13 @@ footer a:hover{
     text-decoration: underline;
 }
 .social ul li{
-    display: block;
+    display: inline-block;
 
 }
 .social ul li a{
-    display: inline-block;
+    display: block;
     width: 23px;
     height: 23px;
     background-size: 23px 23px;
-    position: center;
+    background-position: center;
 }
